@@ -1,3 +1,5 @@
-node1   ansible_ssh_host=10.128.0.54 ansible_ssh_user=sirin_a  
-node2   ansible_ssh_host=10.128.0.55 ansible_ssh_user=sirin_a
- 
+[production]
+node-1 ansible_ssh_host=10.128.0.10 ansible_ssh_user=cloudthatoct_b1c40d26_9160_45fa_
+
+[development]
+node-2 ansible_ssh_host=10.128.0.11 ansible_ssh_user=cloudthatoct_b1c40d26_9160_45fa_
