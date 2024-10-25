@@ -1,5 +1,2 @@
-[production]
-node-1 ansible_ssh_host=10.128.0.10 ansible_ssh_user=cloudthatoct_b1c40d26_9160_45fa_
-
-[development]
-node-2 ansible_ssh_host=10.128.0.11 ansible_ssh_user=cloudthatoct_b1c40d26_9160_45fa_
+[project]
+pro-1 ansible_ssh_host=10.128.0.16 ansible_ssh_user=cloudthatoct_b1c40d26_9160_45fa_
