@@ -1,2 +1,2 @@
 [project]
-pro-1 ansible_ssh_host=10.128.0.16 ansible_ssh_user=cloudthatoct_b1c40d26_9160_45fa_
+pro-2 ansible_ssh_host=10.128.0.17 ansible_ssh_user=cloudthatoct_b1c40d26_9160_45fa_
