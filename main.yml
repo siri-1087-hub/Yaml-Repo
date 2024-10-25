@@ -3,7 +3,6 @@
   become: true
   roles:
   - ubuntu_update
-  - github
   - nginx
   - prometheus
   - node_exporter
