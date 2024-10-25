@@ -70,8 +70,7 @@
             - job_name: 'remote_servers'
               static_configs:
                 - targets:
-                  - '34.72.161.125:9100'
-                  - '35.188.169.92:9100'
+                  - '35.193.81.137:9100'
         owner: "{{ prometheus_user }}"
         group: "{{ prometheus_user }}"
         mode: '0644'
